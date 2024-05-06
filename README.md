@@ -34,6 +34,9 @@ python -m venv path_to_env/env_name
 source path_to_env/env_name/bin/activate
 ```
 
+2. Install **MAZAlib**: `pip install mazalib`
+
+
 ### Example 
 
 Script `test.py` contains all implemented methods. Also you can write your logic using this script as example
